@@ -8,7 +8,7 @@ namespace Lana.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezing1", "Bracing2", "Chilly3", "Cool4", "Mild5", "Warm6", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
